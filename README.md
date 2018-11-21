@@ -56,7 +56,6 @@ Device must be aware of its private key, and the QR code must be printed somewhe
 
  * What sort of crypto requirements are there?
 
-
  * Reference link
 
 https://www.wi-fi.org/downloads-registered-guest/Device_Provisioning_Protocol_Specification_v1.0.pdf/35330
@@ -150,6 +149,16 @@ The BRSKI process would have to be rerun.  The MASA service would be required ag
  * Reference link
 
 Spec not publsihed but see https://tools.ietf.org/id/draft-heile-lpwan-wisun-overview-00.html.
+
 ## Zigbee
 
-## Bluetooth
+## Zigbee IP
+
+## Bluetooth and Bluetooth Low Energy
+
+## Thread with JPAKE
+
+## EAP/AAA
+
+
+
